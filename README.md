@@ -41,7 +41,7 @@ When motion is detected for a sustained period, an audible alarm will sound repe
 
 **Contact Information:**
 For any queries, support, or contributions, please contact:
-your-email@example.com
+rudra.25bsa10174@vitbhopal.ac.in
 
 
 **License:**
